@@ -12,6 +12,6 @@ EditorBuildSettings:
     path: Assets/Scenes/OpenWorld.unity
     guid: 5e7af4bd95ac53a4cb784a9eedf8f6f9
   - enabled: 1
-    path: Assets/Scenes/Dungeon_Demo.unity
+    path: Assets/Scenes/Dungeon.unity
     guid: 8a24eb6610ad17142bb1a19842847ed5
   m_configObjects: {}

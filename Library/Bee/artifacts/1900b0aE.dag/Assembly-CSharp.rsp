@@ -349,9 +349,6 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/LibraryAssets/BrokenVector/LowPolyDungeon/Demo Scenes/MouseCamLook.cs"
-"Assets/LibraryAssets/BrokenVector/LowPolyDungeon/Demo Scenes/PlayerMovement.cs"
-"Assets/LibraryAssets/BrokenVector/LowPolyDungeon/Demo Scenes/ScreenshotMaker.cs"
 "Assets/LibraryAssets/LowPolyGround/Scripts/FreeCamera.cs"
 "Assets/LibraryAssets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/LibraryAssets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
@@ -387,8 +384,12 @@
 "Assets/LibraryAssets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs"
 "Assets/LibraryAssets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs"
 "Assets/LibraryAssets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs"
+"Assets/Scripts/EnterDungeon.cs"
 "Assets/Scripts/MainMenu.cs"
+"Assets/Scripts/MouseCamLook.cs"
 "Assets/Scripts/PauseMenu.cs"
+"Assets/Scripts/PlayerMovement.cs"
+"Assets/Scripts/ScreenshotMaker.cs"
 -langversion:9.0
 
 /deterministic
