@@ -386,11 +386,13 @@
 "Assets/LibraryAssets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs"
 "Assets/LibraryAssets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs"
 "Assets/Scripts/EnterDungeon.cs"
+"Assets/Scripts/LoopGameScript.cs"
 "Assets/Scripts/MainMenu.cs"
 "Assets/Scripts/MouseCamLook.cs"
 "Assets/Scripts/PauseMenu.cs"
 "Assets/Scripts/PlayerMovement.cs"
 "Assets/Scripts/ScreenshotMaker.cs"
+"Assets/Scripts/TilesScript.cs"
 -langversion:9.0
 
 /deterministic
