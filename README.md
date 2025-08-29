@@ -59,7 +59,7 @@ Key features include:
 ---
 
 ## ✨ Outcomes
-- Successfully created a playable **educational 3D game**.  
+- Successfully created a playable **educational 3D game** (prototype).  
 - Addressed **gender and equity considerations** in educational game design.  
 - Produced a **thesis paper documenting methodology, implementation, and results**.  
 
